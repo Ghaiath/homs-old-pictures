@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/homs-old-pictures/static/css/main.eca8f84d.chunk.css",
+    "main.js": "/homs-old-pictures/static/js/main.19401868.chunk.js",
+    "main.js.map": "/homs-old-pictures/static/js/main.19401868.chunk.js.map",
+    "runtime-main.js": "/homs-old-pictures/static/js/runtime-main.97492f9e.js",
+    "runtime-main.js.map": "/homs-old-pictures/static/js/runtime-main.97492f9e.js.map",
+    "static/js/2.2ed3091e.chunk.js": "/homs-old-pictures/static/js/2.2ed3091e.chunk.js",
+    "static/js/2.2ed3091e.chunk.js.map": "/homs-old-pictures/static/js/2.2ed3091e.chunk.js.map",
+    "index.html": "/homs-old-pictures/index.html",
+    "precache-manifest.a9324f6354a0e7f4c23840da6abe1467.js": "/homs-old-pictures/precache-manifest.a9324f6354a0e7f4c23840da6abe1467.js",
+    "service-worker.js": "/homs-old-pictures/service-worker.js",
+    "static/css/main.eca8f84d.chunk.css.map": "/homs-old-pictures/static/css/main.eca8f84d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97492f9e.js",
+    "static/js/2.2ed3091e.chunk.js",
+    "static/css/main.eca8f84d.chunk.css",
+    "static/js/main.19401868.chunk.js"
+  ]
+}
